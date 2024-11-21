@@ -3,6 +3,8 @@
 ## POS Sale Projects
 This is a POS Sale Projects, through web application. Contain 2 main things: POS Sale interface & POS Dashboard. Connected through nodeJS.
 
+This baby name is Neoma. Enjoy Neoma.
+
 #### Install node packages
 ```
 cd /backend
