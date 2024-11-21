@@ -1,7 +1,7 @@
-# CAN-DUMP-Webapp
+# Neoma
 
-## IAG Webapp 2.0 (MERN)
-This is the second version of the web application, using MongoDB database, Node & Express for backend, and React for frontend
+## POS Sale Projects
+This is a POS Sale Projects, through web application. Contain 2 main things: POS Sale interface & POS Dashboard. Connected through nodeJS.
 
 #### Install node packages
 ```
